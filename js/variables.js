@@ -1,3 +1,5 @@
+console.log("variables");
+
 var student = "Tanya";
 console.log(student);
 

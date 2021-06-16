@@ -1,9 +1,6 @@
-var student = "Tanya";
-console.log(student);
-
-var student = "tanya";
-
-
-import "./js/variables.js";
-import "./js/primitives.js";
-console.log(primitives);
+// import "./js/variables.js";
+// import "./js/primitives.js";
+// import './js/toString.js';
+// import './js/toNumber.js';
+// import './js/toBoolean.js';
+import './js/falsy-values.js';
